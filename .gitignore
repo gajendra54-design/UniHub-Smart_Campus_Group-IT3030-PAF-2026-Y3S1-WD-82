@@ -1,0 +1,16 @@
+node_modules/
+dist/
+target/
+.env
+.env.*
+!.env.example
+application-local.properties
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
+hs_err_pid*
+backend/data/
+backend/uploads/
